@@ -1,0 +1,5 @@
+Only compatible in google chrome
+Team Members: link are not opening by clicking, but opens using right click->open link in new tab
+Pic of Rakesh
+Other information update
+Few text update
