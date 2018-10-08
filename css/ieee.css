@@ -50,6 +50,7 @@
 
 #refer{
     float:right;
+	display:none;
 }
 
 .stepDescription{
@@ -117,4 +118,5 @@
 
 #Layer_1{
     margin-top: -10px;
+    padding-left: 91px;
 }
